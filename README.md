@@ -1,5 +1,5 @@
 # Test
-Access s3 from a private instance
+Access s3 from private instance
 ## Getting Started
 Deploy vpc endpoint for s3 and depoly a public instance in public subnet and a private instance in private subnet. Private subnet does not need/have nat gateway.
 ### Deploy
